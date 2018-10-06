@@ -8,3 +8,5 @@
 eureka1:第一次使用eureka服务，包含一个server和client端
 
 eureka2:eureka的动态扩容，使用了springcloud得config
+
+eureka3:构建Multi Zone Eureka Server
